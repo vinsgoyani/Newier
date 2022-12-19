@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Newier/static/css/main.073c9b0a.css",
+    "main.js": "/Newier/static/js/main.e25969b6.js",
+    "static/js/787.4c026eef.chunk.js": "/Newier/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/Newier/static/media/loading.49f527a26c675e7c7dfb.gif",
+    "index.html": "/Newier/index.html",
+    "main.073c9b0a.css.map": "/Newier/static/css/main.073c9b0a.css.map",
+    "main.e25969b6.js.map": "/Newier/static/js/main.e25969b6.js.map",
+    "787.4c026eef.chunk.js.map": "/Newier/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e25969b6.js"
+  ]
+}
